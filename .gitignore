@@ -1,0 +1,11 @@
+
+
+*.class
+
+.vscode
+
+/target
+
+*.war
+
+*.jar
