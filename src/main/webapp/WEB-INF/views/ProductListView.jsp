@@ -37,6 +37,7 @@
                         <td>${product.price}</td>
                         <td><a href="editProduct?code=${product.code}">Edit</a></td>
                         <td><a href="deleteProduct?code=${product.code}">Delete</a></td>
+                        <td><a href="home">Details</a></td>
                     </tr>
 
                 </c:forEach>
